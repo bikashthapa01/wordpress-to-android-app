@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item android:title="Categories" />
+    <item android:title="Posts" />
+    <item android:title="Contact Us" />
+    <item android:title="Leave a Rating" />
+</menu>

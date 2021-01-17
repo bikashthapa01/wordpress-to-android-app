@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WPBlog</string>
+    <string name="url">https://simplegyaan.com/wp-json/wp/v2/posts?per_page=10</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
